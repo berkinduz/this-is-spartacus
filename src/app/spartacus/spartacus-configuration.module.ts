@@ -16,7 +16,7 @@ import {
   mediaConfig,
 } from '@spartacus/storefront';
 
-import { environment } from '../../environments/environment';
+import { environment } from '../../environments/environment.electronics';
 import { stCmsComponentsConfig } from './config/st-cms-components.config';
 import { stLayoutSlotsConfig } from './config/st-layout-slots.config';
 
